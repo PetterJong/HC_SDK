@@ -1,0 +1,3 @@
+sdk开发文档可以win32的sdk，参考网站:http://www.hikvision.com/Cn/download_more_401.html#prettyPhoto
+
+如果有需要的话，可以联系他们技术支持可以拿到完整android sdk开发包和文档
